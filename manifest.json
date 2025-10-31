@@ -1,0 +1,23 @@
+{
+  "name": "Big Joe Service Manuals Index",
+  "version": "2025-10-31",
+  "publisher": "Big Joe Lift Trucks, Inc.",
+  "docs": [
+    {
+      "title": "LXE50 – Service Manual",
+      "series": "LXE",
+      "model": "LXE50",
+      "filename": "LXE50 SERVICE MANUAL.pdf",
+      "url": "https://<YOUR_USERNAME>.github.io/bigjoe-service-manuals/manuals/LXE50%20SERVICE%20MANUAL.pdf",
+      "notes": "Full service guide for LXE50 forklifts."
+    },
+    {
+      "title": "LVE40 – Service Manual",
+      "series": "LVE",
+      "model": "LVE40",
+      "filename": "LVE40 SERVICE MANUAL.pdf",
+      "url": "https://Matt-BigJoe.github.io/bigjoe-service-manuals/manuals/LVE40%20SERVICE%20MANUAL.pdf",
+      "notes": "Service and troubleshooting for LVE40 forklifts."
+    }
+  ]
+}
